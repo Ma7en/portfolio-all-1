@@ -1,0 +1,38 @@
+
+@media (max-width: 767px) {
+
+
+/* sub-2 */
+.sub-2 .wrapper {
+    padding: 0 20px;
+}
+
+.sub-2 .wrapper .cont-down .clone {
+    display: none;
+}
+
+.sub-2 .wrapper .cont-down .timer {
+    border: none;
+}
+
+.sub-2 .wrapper .cont-down .timer .numb {
+    font-size: 28px;
+}
+
+.sub-2 .wrapper .cont-down .timer .text {
+    font-size: 15px;
+}
+
+
+
+
+
+
+
+
+/*  */
+
+
+
+}
+
